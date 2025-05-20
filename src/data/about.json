@@ -1,0 +1,46 @@
+{
+    "fr": {
+      "title": "À propos",
+      "job": "Data Analyste",
+      "descriptionLines": [
+        "Je suis",
+        ", Data Analyste spécialisée en automatisation et visualisation de données.",
+        "Mon objectif : rendre les données accessibles, compréhensibles et surtout utiles pour la prise de décision.",
+        "J’utilise principalement Power BI mais aussi Python pour concevoir des tableaux de bord clairs, dynamiques et adaptés aux enjeux métiers.\n",
+        "Durant mes projets, j’ai appris à structurer des modèles de données complexes, optimiser les performances des rapports et automatiser les traitements pour gagner du temps au quotidien.\n",
+        "Ce que j’aime dans mon métier ? Apporter des solutions concrètes, aider à y voir plus clair dans les chiffres, et créer des outils simples à utiliser, même pour les non-initiés.",
+        "Aujourd’hui, je propose mes compétences en freelance pour accompagner entreprises et équipes dans la valorisation de leurs données.",
+        "\n\n👉 Envie de collaborer ou juste curieux(se) d’en savoir plus ? Écrivez-moi, je serai ravie d’en discuter."
+      ],
+      "skills": [
+        "Analyse statistique",
+        "Visualisation de données",
+        "Intelligence décisionnelle (Business Intelligence)",
+        "Automatisation des traitements de données"
+      ],
+      "cv": "Télécharger mon CV",
+      "contact": "Me contacter"
+    },
+    "en": {
+      "title": "About",
+      "job": "Data Analyst",
+      "descriptionLines": [
+        "I'm",
+        ", a Data Analyst specialized in data automation and visualization.",
+        "My goal: to make data accessible, understandable, and truly useful for decision-making.",
+        "I mainly use Power BI and Python to design dashboards that are clear, dynamic, and tailored to business needs.\n",
+        "Through my projects, I’ve learned to structure complex data models, optimize report performance, and automate processing to save valuable time.\n",
+        "What do I love about my job? Providing concrete solutions, helping clarify insights, and creating user-friendly tools — even for non-technical teams.",
+        "Today, I offer my services as a freelancer to help businesses and teams unlock the value of their data.",
+        "\n\n👉 Interested in collaborating or just curious? Reach out — I’d love to chat."
+      ],
+      "skills": [
+        "Statistical analysis",
+        "Data visualization",
+        "Business Intelligence",
+        "Data automation processes"
+      ],
+      "cv": "Download my resume",
+      "contact": "Contact me"
+    }
+  }

@@ -1,0 +1,46 @@
+{
+    "fr": {
+      "title": "Discutons de votre",
+      "highlight": "projet",
+      "description": "Vous avez un projet d’analyse de données ou besoin d’insights pour votre entreprise ?\nN’hésitez pas à me contacter pour discuter de la façon dont je peux vous aider.",
+      "labels": {
+        "name": "Nom",
+        "email": "Email",
+        "subject": "Sujet",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Votre nom",
+        "email": "Votre email",
+        "subject": "Sujet de votre message",
+        "message": "Votre message"
+      },
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "toastSuccess": "Message envoyé avec succès !",
+      "toastError": "Une erreur est survenue. Veuillez réessayer.",
+      "footer": "Tous droits réservés."
+    },
+    "en": {
+      "title": "Let's talk about your",
+      "highlight": "project",
+      "description": "Do you have a data analysis project or need insights for your business?\nFeel free to contact me to discuss how I can help.",
+      "labels": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "placeholders": {
+        "name": "Your name",
+        "email": "Your email",
+        "subject": "Subject of your message",
+        "message": "Your message"
+      },
+      "send": "Send message",
+      "sending": "Sending...",
+      "toastSuccess": "Message sent successfully!",
+      "toastError": "An error occurred. Please try again.",
+      "footer": "All rights reserved."
+    }
+  }

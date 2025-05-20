@@ -1,0 +1,61 @@
+{
+    "fr": {
+      "title": "Compétences",
+      "softSkills": [
+        {
+          "title": "Pédagogue",
+          "description": "Je sais rendre les données compréhensibles et accessibles, même aux publics non techniques.\nChaque restitution est pensée pour faciliter l’appropriation des résultats par les équipes métier."
+        },
+        {
+          "title": "Organisée",
+          "description": "Je structure mes missions avec méthode, en planifiant les étapes clés et les points de suivi.\nCette organisation me permet de respecter les délais, même sur plusieurs projets simultanés."
+        },
+        {
+          "title": "Autonome",
+          "description": "Habituée à travailler de manière indépendante, je prends en charge l’ensemble d’un projet, du cadrage à la livraison.\nJe sais poser les bonnes questions et avancer efficacement sans supervision constante."
+        },
+        {
+          "title": "Écoute active",
+          "description": "Je prends le temps de bien comprendre les attentes, même implicites, pour y répondre de manière pertinente.\nL’analyse commence toujours par une écoute attentive des besoins métier."
+        },
+        {
+          "title": "Rigueur & sens du détail",
+          "description": "Je veille à la qualité et à la fiabilité de chaque analyse, en vérifiant systématiquement les données et les calculs.\nChaque livrable repose sur un haut niveau d’exigence et de précision."
+        },
+        {
+          "title": "Force de proposition",
+          "description": "Je ne me limite pas à exécuter une demande : je propose des axes d’optimisation, des analyses complémentaires ou des ajustements pertinents.\nMon objectif : maximiser la valeur créée pour le client."
+        }
+      ]
+    },
+    "en": {
+      "title": "Skills",
+      "softSkills": [
+        {
+          "title": "Educator",
+          "description": "I make data understandable and accessible, even to non-technical audiences.\nEvery report is designed to help business teams easily interpret results."
+        },
+        {
+          "title": "Organized",
+          "description": "I manage my projects methodically by planning key milestones and follow-ups.\nThis allows me to meet deadlines even across multiple assignments."
+        },
+        {
+          "title": "Autonomous",
+          "description": "Used to working independently, I manage projects from framing to delivery.\nI ask the right questions and move forward efficiently without constant supervision."
+        },
+        {
+          "title": "Active Listener",
+          "description": "I take the time to understand expectations, even implicit ones, to meet them effectively.\nAnalysis always starts with careful attention to business needs."
+        },
+        {
+          "title": "Detail-Oriented",
+          "description": "I ensure quality and reliability by thoroughly checking all data and calculations.\nEach deliverable meets a high standard of precision."
+        },
+        {
+          "title": "Proactive",
+          "description": "I go beyond execution: I suggest improvements, complementary analyses, or relevant adjustments.\nMy goal is to maximize the value created for the client."
+        }
+      ]
+    }
+  }
+  

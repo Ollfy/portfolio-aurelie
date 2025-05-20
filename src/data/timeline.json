@@ -1,0 +1,83 @@
+{
+    "fr": {
+      "title": "Mes projets",
+      "projects": [
+        {
+          "title": "Réalisation d’un rapport mensuel d’activité automatisé",
+          "date": "2023-2024",
+          "slug": "rapport-python",
+          "summary": "Création d'un rapport au rendu PDF via Dash Plotly en Python",
+          "image": "/images/autrerma.png"
+        },
+        {
+          "title": "Pilotage de l’implémentation d’un système de gestion des déchets fictif pour la ville de Lyon",
+          "date": "2024",
+          "slug": "gestion-dechets-lyon",
+          "summary": "Stratégie - Accompagnement - Digitalisation - Communication - Optimisation des processus",
+          "image": "/images/gestionlyon.png"
+        },
+        {
+          "title": "Power BI - Projet",
+          "date": "2024",
+          "slug": "powerbi-stoc",
+          "summary": "Appariement de factures multi-sources via Power BI (utilisation de Power Query et VBA)",
+          "image": "/images/stoc.png"
+        },
+        {
+          "title": "Zoidberg 2.0 - Projet de spécialisation Epitech",
+          "date": "2025",
+          "slug": "zoidberg-2",
+          "summary": "Détection de pneumonie par machine learning avec Python",
+          "image": "/images/Zoidberg.png"
+        },
+        {
+          "title": "Portfolio \"Aurélie Nunge.\"",
+          "date": "2025",
+          "slug": "portfolio",
+          "summary": "Création d'un portfolio en ligne via React, Vite et TailwindCSS.",
+          "image": "/images/portfolio.png"
+        }
+      ]
+    },
+    "en": {
+      "title": "My Projects",
+      "projects": [
+        {
+          "title": "Automated Monthly Activity Report",
+          "date": "2023–2024",
+          "slug": "rapport-python",
+          "summary": "Created a PDF-rendered report using Dash Plotly in Python",
+          "image": "/images/autrerma.png"
+        },
+        {
+          "title": "Waste Management System Implementation for the City of Lyon (Fictional)",
+          "date": "2024",
+          "slug": "gestion-dechets-lyon",
+          "summary": "Strategy - Support - Digitalization - Communication - Process Optimization",
+          "image": "/images/gestionlyon.png"
+        },
+        {
+          "title": "Power BI - Project",
+          "date": "2024",
+          "slug": "powerbi-stoc",
+          "summary": "Multi-source invoice matching with Power BI (Power Query & VBA)",
+          "image": "/images/stoc.png"
+        },
+        {
+          "title": "Zoidberg 2.0 - Epitech Specialization Project",
+          "date": "2025",
+          "slug": "zoidberg-2",
+          "summary": "Pneumonia detection using machine learning with Python",
+          "image": "/images/Zoidberg.png"
+        },
+        {
+          "title": "Portfolio \"Aurélie Nunge.\"",
+          "date": "2025",
+          "slug": "portfolio",
+          "summary": "Online portfolio built with React, Vite and TailwindCSS.",
+          "image": "/images/portfolio.png"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,245 @@
+{
+  "projects": {
+    "powerbi-stoc": {
+      "title": "Power BI - Projet ",
+      "sections": {
+        "intro": {
+          "heading": "",
+          "content": [
+            "En cours de construction"
+          ]
+        }
+      }
+    },
+    "gestion-dechets-lyon": {
+      "title": "Jack The Ripeur — Lyon 2025",
+      "sections": {
+        "intro": {
+          "heading": "",
+          "content": [
+            "<strong>Jack The Ripeur</strong> est un projet de transformation digitale pour la gestion des déchets de la ville de Lyon, réalisé dans le cadre du module transformation digitale lors de mon cursus de formation à Epitech. Il a consisté à accompagner un changement d’envergure à travers une stratégie de communication, de formation, de suivi de la performance et de pérennisation. Le tout a été symbolisé par la création d'une identité visuelle et d'une mascotte : <strong>Bin-E</strong>."
+          ]
+        },
+        "objectif": {
+          "heading": "🎯 Objectif",
+          "content": [
+            "Faciliter l’implémentation d’une nouvelle stratégie de gestion intelligente des déchets comprenant :",
+            "<ul class='list-disc pl-6 mt-2'><li>Des <strong>poubelles connectées</strong> avec capteurs de remplissage</li><li>Des <strong>camions géolocalisés</strong> pour des tournées optimisées</li><li>Une <strong>application mobile</strong> pour les citoyens</li><li>Un <strong>suivi RH</strong> numérique pour les agents de terrain</li></ul>"
+          ]
+        },
+        "methodologie": {
+          "heading": "🧩 Méthodologie",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li>Découpage du projet en 3 phases : lancement, déploiement, remerciements/REX</li><li>Création de supports de formation et guides utilisateurs</li><li>Communication progressive auprès des parties prenantes</li><li>Suivi long terme et audit de pérennisation</li><li>Mesure de l’impact environnemental et citoyen</li></ul>"
+          ]
+        },
+        "communication": {
+          "heading": "📢 Communication & Mascotte",
+          "content": [
+            "Une stratégie de communication en trois temps a été déployée : <strong>mobilisation</strong>, <strong>formation</strong>, <strong>remerciements</strong>. Pour symboliser la modernité et engager les citoyens, une mascotte nommée <strong>Bin-E</strong> a été conçue.",
+            "<img src='/images/BinE.gif' alt='Bin-E, la mascotte' class='rounded-lg shadow-md w-72' />"
+          ]
+        },
+        "livrables": {
+          "heading": "📦 Livrables clés",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li><strong>Plan de changement complet</strong> avec acteurs, risques, leviers</li><li><strong>Campagne de sensibilisation</strong> citoyenne et interne</li><li><strong>Supports de formation et guides accessibles</strong></li><li><strong>Tableaux de bord Power BI</strong> de suivi des indicateurs (remplissage, collecte, satisfaction...)</li><li><strong>Politique de sécurité</strong> conforme RGPD & ISO 27001</li><li><strong>REX structuré</strong> (écarts, réussites, recommandations)</li></ul>"
+          ]
+        },
+        "impact": {
+          "heading": "🌱 Impact environnemental",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li>Réduction de l’empreinte carbone</li><li>Optimisation énergétique des tournées</li><li>Normes & labels visés : <code>ISO 14001</code>, <code>50001</code>, <code>ADEME</code>, <code>NF Environnement</code></li></ul>"
+          ]
+        },
+        "perennisation": {
+          "heading": "⚙️ Pérennisation",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li>Checklists de maintenance et procédures de signalement des bugs</li><li>Plan de maintenance long terme (budget + ressources)</li><li>Organisation du support technique post-projet</li></ul>"
+          ]
+        },
+        "liens": {
+          "heading": "🔗 Liens",
+          "content": [
+            "<a href='https://github.com/ton-github/jacktheripeur' target='_blank' rel='noreferrer' class='text-red-600 underline'>Code source ou livrables (à héberger sur GitHub si tu veux)</a>"
+          ]
+        },
+        "conclusion": {
+          "heading": "",
+          "content": [
+            "Ce projet est une belle illustration de conduite du changement, mêlant gestion de projet, communication, accessibilité numérique, outils BI, normes de sécurité et transformation digitale concrète au service de la ville et de ses citoyens."
+          ]
+        }
+      }
+    },
+    "zoidberg-2": {
+  "title": "Zoidberg 2.0 — Pneumonie & IA",
+  "sections": {
+    "intro": {
+      "heading": "",
+      "content": [
+        "<strong>Zoidberg 2.0</strong> est un projet de diagnostic assisté par ordinateur visant à détecter les cas de pneumonie à partir de radiographies pulmonaires, en utilisant des techniques de machine learning. Il s'inscrit dans le cadre d'un projet semestriel lors de mon cursus de formation à Epitech.<br></br>"
+      ]
+    },
+    "objectif": {
+      "heading": "🎯 Objectif",
+      "content": [
+        "Concevoir un pipeline complet permettant de :",
+        "<ul class='list-disc pl-6 mt-2'><li>Préparer et analyser des jeux d’images 4K de radiographie</li><li>Entraîner des modèles de machine learning pour détecter la pneumonie</li><li>Comparer les performances selon différentes approches (validation croisée, split train-test…)</li><li>Présenter les résultats de manière claire et reproductible</li></ul><br></br>"
+      ]
+    },
+    "approche": {
+      "heading": "🧠 Approche méthodologique",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Création d’une classe personnalisée pour le chargement, la visualisation et le prétraitement des données</li><li>Normalisation et redimensionnement des images (224×224)</li><li>Visualisation de la distribution des labels (pneumonia vs. normal)</li><li>Utilisation de K-Nearest Neighbors (KNN) comme algorithme de base</li><li>Évaluation avec <code>accuracy_score</code> et <code>confusion_matrix</code></li><li>Exploration de métriques avancées comme le ROC-AUC (prévu)</li></ul><br></br>"
+      ]
+    },
+    "dataset": {
+      "heading": "📁 Dataset",
+      "content": [
+        "Les données sont réparties en trois ensembles : <strong>train</strong>, <strong>validation</strong> et <strong>test</strong>, accessibles via une URL interne. Chaque image est une radiographie thoracique annotée manuellement par des professionnels de santé.<br></br>"
+      ]
+    },
+    "technos": {
+      "heading": "🔧 Technologies utilisées",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li><strong>Python</strong> (langage principal)</li><li><strong>Pandas / NumPy</strong> pour la manipulation des données</li><li><strong>scikit-learn</strong> pour les algorithmes ML et les métriques</li><li><strong>Matplotlib / Seaborn</strong> pour la visualisation</li><li><strong>PIL</strong> pour la gestion des images</li></ul><br></br>"
+      ]
+    },
+    "fonctionnalites": {
+      "heading": "🚀 Fonctionnalités principales",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Exploration interactive des images et de leur étiquetage</li><li>Pipeline de prétraitement automatisé</li><li>Support de validation croisée pour la sélection de modèles</li><li>Affichage graphique des erreurs de prédiction</li><li>Comparaison de différentes méthodes de validation (simple split vs. k-fold)</li></ul><br></br>"
+      ]
+    },
+    "defis": {
+      "heading": "⚠️ Défis techniques",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Gestion de fichiers d’images volumineux (4K)</li><li>Maintien d’un bon compromis biais/variance</li><li>Interprétation des résultats sur des données médicales sensibles</li><li>Reproductibilité des expériences (sauvegarde et rechargement des modèles)</li></ul><br></br>"
+      ]
+    },
+    "liens": {
+      "heading": "🔗 Liens",
+      "content": [
+        "<a href='https://github.com/ton-github/zoidberg2.0' target='_blank' rel='noreferrer' class='text-red-600 underline'>Code source GitHub (à ajouter)</a><br></br>"
+      ]
+    },
+    "conclusion": {
+      "heading": "",
+      "content": [
+        "Ce projet constitue une première exploration de l’apprentissage supervisé sur des données médicales, avec des perspectives d’amélioration via la PCA, les SOMs ou des réseaux de neurones."
+      ]
+    }
+  }
+},
+
+    "portfolio": {
+  "title": "Portfolio Aurélie Nunge",
+  "sections": {
+    "intro": {
+      "heading": "",
+      "content": [
+        "Ce projet est un <strong>portfolio interactif</strong> développé pour valoriser mes compétences en data, développement web et visualisation. Il intègre une approche moderne avec une forte identité visuelle, une compatibilité responsive, un mode sombre, une traduction anglophone et une expérience utilisateur fluide.<br></br>"
+      ]
+    },
+    "objectif": {
+      "heading": "🎯 Objectif",
+      "content": [
+        "Mettre en avant mes projets, compétences et identité professionnelle à travers un site web personnel moderne et évolutif.<br></br>"
+      ]
+    },
+    "technos": {
+      "heading": "🔧 Technologies utilisées",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li><strong>React.js</strong> (framework JS principal)</li><li><strong>Vite</strong> (pour un bundling rapide)</li><li><strong>Tailwind CSS</strong> (mise en page responsive)</li><li><strong>Framer Motion</strong> (animations fluides)</li><li><strong>Three.js</strong> avec <code>@react-three/fiber</code> (modèle 3D)</li><li><strong>React Router</strong> (navigation multi-pages)</li></ul><br></br>"
+      ]
+    },
+    "fonctionnalites": {
+      "heading": "🚀 Fonctionnalités principales",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Navigation fluide entre les sections (About, Skills, Projects...)</li><li>Mode sombre automatique avec sauvegarde des préférences</li><li>Timeline animée des projets avec pages détaillées</li><li>Intégration d’un modèle 3D interactif</li><li>Détection de langue navigateur et traduction</li></ul><br></br>"
+      ]
+    },
+    "modele": {
+      "heading": "📦 Modèle 3D",
+      "content": [
+        "Un modèle GLB interactif est intégré à la page d’accueil à l’aide d’un composant personnalisé <code>ModelViewer</code> basé sur Three.js.",
+        "{{3D_MODEL}}"
+      ]
+    },
+    "defis": {
+      "heading": "⚠️ Défis techniques",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Rendu fluide du modèle 3D sans dégrader les performances</li><li>Gestion du mode sombre via localStorage</li><li>Responsive design avec logique mobile-first</li><li>Routing dynamique pour les pages projets</li></ul><br></br>"
+      ]
+    },
+    "liens": {
+      "heading": "🔗 Liens",
+      "content": [
+        "<a href='https://aurelienunge.social' target='_blank' rel='noreferrer' class='text-red-600 underline'>Voir le site en ligne</a>",
+        "<a href='https://github.com/ton-github/portfolio' target='_blank' rel='noreferrer' class='text-red-600 underline'>Code source sur GitHub</a><br></br>"
+      ]
+    },
+    "conclusion": {
+      "heading": "",
+      "content": [
+        "Ce projet est toujours en évolution et constitue un véritable terrain d’expérimentation autour de mes compétences techniques et de mon identité professionnelle."
+      ]
+    }
+  }
+},
+
+
+    "rapport-python": {
+      "title": "Rapport Mensuel d'Activité automatisé",
+      "sections": {
+        "intro": {
+          "heading": "",
+          "content": [
+            "<div class='alert-yellow'><p><strong>Important :</strong> Le rapport présenté ici est un <em>exemple fictif</em> à visée démonstrative. Toutes les données ont été modifiées, générées ou annotées à des fins de démonstration. Le contenu ne reflète aucune information confidentielle d'entreprise.</p></div>",
+            "Ce projet a été réalisé dans le cadre de ma première alternance lors de ma troisième année de mon BUT GEII (génie électrique et informatique industrielle). L'objectif : automatiser un <strong>rapport mensuel d'activité de plus de 60 pages</strong>, jusqu'alors généré manuellement à partir de fichiers Excel et Power BI. Cette automatisation devait répondre à un enjeu fort de gain de temps, de fiabilité et de lisibilité pour les équipes.<br></br>"
+          ]
+        },
+        "objectifs": {
+          "heading": "🎯 Objectifs",
+          "content": [
+            "Remplacer une production manuelle de rapports Word et PDF par un processus entièrement automatisé, capable de :",
+            "<ul class='list-disc pl-6 mb-4'><li>Remplacer les 5 à 7 heures de travail manuel mensuel par une génération automatisée en 10 à 20 minutes.</li><li>Récupérer et traiter des données issues de <strong>fichiers Excel</strong> et d’une <strong>base Access</strong></li><li>Générer dynamiquement les tableaux et graphiques selon le volume mensuel</li><li>Créer un rapport au format <strong>PDF paginé</strong> automatiquement, avec gestion des tableaux multi-pages</li><li>Éviter les erreurs humaines fréquentes</li><li>Fournir une solution maintenable et évolutive, utilisable par des personnes non techniques.</li></ul><br></br>"
+          ]
+        },
+        "technos": {
+          "heading": "🔧 Technologies utilisées",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li><strong>Python</strong> pour le traitement des données et la génération dynamique des pages</li><li><strong>Dash</strong> (basé sur Flask) pour l’interface web</li><li><strong>Plotly</strong> pour les graphiques interactifs</li><li><strong>Openxyl</strong> pour récupérer les données depuis les fichiers Excel</li><li><strong>pandas</strong> pour le nettoyage, filtrage et groupement des données</li><li><strong>Excel</strong> + Power Query pour la structuration des bases</li></ul><br></br>"
+          ]
+        },
+        "fonctionnalites": {
+          "heading": "📄 Fonctionnalités clés",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li>Récupération des données depuis plusieurs fichiers Excel (indicateurs, annexes, analyses réglementaires...)</li><li>Génération automatique de graphiques et de tableaux multi-index (Dash DataTable)</li><li>Pagination dynamique selon le nombre de lignes (ajout automatique de pages)</li><li>Table des matières avec liens dynamiques et numéros de page gérés automatiquement</li><li>Export en PDF prêt à l'impression et à l'envoi client</li></ul><br></br>"
+          ]
+        },
+        "defis": {
+          "heading": "💡 Défis rencontrés",
+          "content": [
+            "<ul class='list-disc pl-6 mb-4'><li>Réalisation de tableaux croisés dynamiques (non disponibles nativement dans Dash)</li><li>Mise en place du pied de page à une position donnée</li><li>Création de tableaux dynamiques avec pagination automatique</li><li>Gestion de multiples sources de données parfois incohérentes</li><li>Optimisation du code Python pour des temps de réponse rapides</li><li>Amélioration continue grâce aux retours utilisateurs hebdomadaires</li></ul><br></br>"
+          ]
+        },
+        "resultats": {
+          "heading": "🚀 Résultats",
+          "content": [
+            "Le RMA automatisé a permis de réduire significativement le temps de génération : de 5 à 7 heures à seulement 15 minutes. Le projet a fiabilisé les données et allégé le travail de l’équipe. L’interface est accessible via un simple navigateur (déploiement en cours sur serveur interne). La solution est documentée (installation, guide d’utilisation, guide développeur) et pourra être adaptée à d'autres contrats.<br></br>"
+          ]
+        },
+        "preview": {
+          "heading": "📌 Aperçu",
+          "content": [
+            "<embed src='/documents/RMA.pdf' type='application/pdf' class='w-full h-[1000px] rounded shadow my-6' />",
+            "<p class='italic text-sm'>Des pistes d’amélioration sont encore à réaliser (déploiement web, ajout de filtres dynamiques...).</p>"
+          ]
+        }
+      }
+    }
+
+  }
+}

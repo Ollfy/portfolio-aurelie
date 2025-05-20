@@ -1,0 +1,34 @@
+{
+    "rapport-python": {
+      "fr": {
+        "title": "Rapport Mensuel d'Activité automatisé",
+        "html": "<p class='mb-4 text-justify'>Ce projet a été réalisé dans le cadre de ma première alternance lors de ma troisième année de mon BUT GEII (génie éléctrique et informatique industrielle). L'objectif : automatiser un <strong>rapport mensuel d'activité de plus de 60 pages</strong>, jusqu'alors généré manuellement à partir de fichiers Excel et Power BI. Cette automatisation devait répondre à un enjeu fort de gain de temps, de fiabilité et de lisibilité pour les équipes.</p>"
+      }
+    },
+    "portfolio": {
+      "fr": {
+        "title": "Portfolio Aurélie Nunge",
+        "html": "<p class='mb-4'>Ce projet est un <strong>portfolio interactif</strong> développé pour valoriser mes compétences en data, développement web et visualisation.</p>",
+        "includeModelViewer": true
+      }
+    },
+    "zoidberg-2": {
+      "fr": {
+        "title": "Zoidberg 2.0 — Pneumonie & IA",
+        "html": "<p class='mb-4 text-justify'><strong>Zoidberg 2.0</strong> est un projet de diagnostic assisté par ordinateur visant à détecter les cas de pneumonie à partir de radiographies pulmonaires, en utilisant des techniques de machine learning.</p>"
+      }
+    },
+    "gestion-dechets-lyon": {
+      "fr": {
+        "title": "Jack The Ripeur — Lyon 2025",
+        "html": "<p class='mb-4 text-justify'><strong>Jack The Ripeur</strong> est un projet de transformation digitale pour la gestion des déchets de la ville de Lyon, réalisé dans le cadre du module transformation digitale lors de mon cursus de formation à Epitech.</p>"
+      }
+    },
+    "powerbi-stoc": {
+      "fr": {
+        "title": "Power BI - Projet STOC",
+        "html": "<p class='mb-6'>En cours de construction</p>"
+      }
+    }
+  }
+  

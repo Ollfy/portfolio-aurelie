@@ -1,0 +1,245 @@
+{
+  "projects": {
+    "powerbi-stoc": {
+      "title": "Power BI - Project",
+      "sections": {
+        "intro": {
+          "heading": "",
+          "content": [
+            "Under construction"
+          ]
+        }
+      }
+    },
+
+    "gestion-dechets-lyon": {
+    "title": "Jack The Ripeur — Lyon 2025",
+    "sections": {
+      "intro": {
+        "heading": "",
+        "content": [
+          "<strong>Jack The Ripeur</strong> is a digital transformation project for waste management in the city of Lyon, developed as part of the digital transformation module during my studies at Epitech. The goal was to support a large-scale change through a communication strategy, training, performance monitoring, and sustainability. The whole project was symbolized by the creation of a visual identity and a mascot: <strong>Bin-E</strong>."
+        ]
+      },
+      "objectif": {
+        "heading": "🎯 Goal",
+        "content": [
+          "Facilitate the implementation of a smart waste management strategy including:",
+          "<ul class='list-disc pl-6 mt-2'><li><strong>Connected bins</strong> with fill-level sensors</li><li><strong>Geolocated trucks</strong> for optimized routes</li><li>A <strong>mobile app</strong> for citizens</li><li>A digital <strong>HR monitoring system</strong> for field agents</li></ul>"
+        ]
+      },
+      "methodologie": {
+        "heading": "🧩 Methodology",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li>Project divided into 3 phases: launch, deployment, acknowledgements/feedback</li><li>Creation of training materials and user guides</li><li>Progressive communication with stakeholders</li><li>Long-term monitoring and sustainability audit</li><li>Measurement of environmental and civic impact</li></ul>"
+        ]
+      },
+      "communication": {
+        "heading": "📢 Communication & Mascot",
+        "content": [
+          "A three-phase communication strategy was deployed: <strong>mobilization</strong>, <strong>training</strong>, and <strong>thanks</strong>. To symbolize modernity and engage citizens, a mascot named <strong>Bin-E</strong> was created.",
+          "<img src='/images/BinE.gif' alt='Bin-E, the mascot' class='rounded-lg shadow-md w-72' />"
+        ]
+      },
+      "livrables": {
+        "heading": "📦 Key Deliverables",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li><strong>Comprehensive change plan</strong> with stakeholders, risks, and levers</li><li><strong>Awareness campaign</strong> for citizens and staff</li><li><strong>Accessible training materials and user guides</strong></li><li><strong>Power BI dashboards</strong> to track indicators (bin fill level, collections, satisfaction...)</li><li><strong>Security policy</strong> compliant with GDPR & ISO 27001</li><li><strong>Structured feedback report</strong> (gaps, successes, recommendations)</li></ul>"
+        ]
+      },
+      "impact": {
+        "heading": "🌱 Environmental Impact",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li>Reduced carbon footprint</li><li>Energy optimization of collection routes</li><li>Targeted certifications and labels: <code>ISO 14001</code>, <code>50001</code>, <code>ADEME</code>, <code>NF Environnement</code></li></ul>"
+        ]
+      },
+      "perennisation": {
+        "heading": "⚙️ Sustainability",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li>Maintenance checklists and bug reporting procedures</li><li>Long-term maintenance plan (budget + resources)</li><li>Post-project technical support organization</li></ul>"
+        ]
+      },
+      "liens": {
+        "heading": "🔗 Links",
+        "content": [
+          "<a href='https://github.com/ton-github/jacktheripeur' target='_blank' rel='noreferrer' class='text-red-600 underline'>Source code or deliverables (to be hosted on GitHub if needed)</a>"
+        ]
+      },
+      "conclusion": {
+        "heading": "",
+        "content": [
+          "This project is a strong example of change management, combining project management, communication, digital accessibility, BI tools, security standards, and tangible digital transformation for the city and its citizens."
+        ]
+      }
+    }
+  },
+
+    "zoidberg-2": {
+  "title": "Zoidberg 2.0 — Pneumonia & AI",
+  "sections": {
+    "intro": {
+      "heading": "",
+      "content": [
+        "<strong>Zoidberg 2.0</strong> is a computer-aided diagnosis project aiming to detect pneumonia from chest X-rays using machine learning techniques. It was developed as part of a semester-long project at Epitech.<br></br>"
+      ]
+    },
+    "objectif": {
+      "heading": "🎯 Goal",
+      "content": [
+        "Design a full pipeline to:",
+        "<ul class='list-disc pl-6 mt-2'><li>Prepare and analyze 4K chest X-ray images</li><li>Train machine learning models to detect pneumonia</li><li>Compare performance using different approaches (cross-validation, train-test split...)</li><li>Present results clearly and reproducibly</li></ul><br></br>"
+      ]
+    },
+    "approche": {
+      "heading": "🧠 Methodological Approach",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Custom class for loading, visualizing, and preprocessing data</li><li>Image normalization and resizing (224×224)</li><li>Label distribution visualization (pneumonia vs. normal)</li><li>Using K-Nearest Neighbors (KNN) as the baseline algorithm</li><li>Evaluation with <code>accuracy_score</code> and <code>confusion_matrix</code></li><li>Exploration of advanced metrics such as ROC-AUC (planned)</li></ul><br></br>"
+      ]
+    },
+    "dataset": {
+      "heading": "📁 Dataset",
+      "content": [
+        "The data is split into three sets: <strong>train</strong>, <strong>validation</strong>, and <strong>test</strong>, accessible via an internal URL. Each image is a chest X-ray manually annotated by healthcare professionals.<br></br>"
+      ]
+    },
+    "technos": {
+      "heading": "🔧 Technologies used",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li><strong>Python</strong> (main language)</li><li><strong>Pandas / NumPy</strong> for data manipulation</li><li><strong>scikit-learn</strong> for ML algorithms and metrics</li><li><strong>Matplotlib / Seaborn</strong> for visualization</li><li><strong>PIL</strong> for image handling</li></ul><br></br>"
+      ]
+    },
+    "fonctionnalites": {
+      "heading": "🚀 Key Features",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Interactive image exploration and labeling</li><li>Automated preprocessing pipeline</li><li>Cross-validation support for model selection</li><li>Graphical display of prediction errors</li><li>Comparison of validation methods (simple split vs. k-fold)</li></ul><br></br>"
+      ]
+    },
+    "defis": {
+      "heading": "⚠️ Technical Challenges",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Managing large 4K image files</li><li>Maintaining bias/variance trade-off</li><li>Interpreting results on sensitive medical data</li><li>Ensuring experiment reproducibility (saving/loading models)</li></ul><br></br>"
+      ]
+    },
+    "liens": {
+      "heading": "🔗 Links",
+      "content": [
+        "<a href='https://github.com/ton-github/zoidberg2.0' target='_blank' rel='noreferrer' class='text-red-600 underline'>GitHub source code (to be added)</a>"
+      ]
+    },
+    "conclusion": {
+      "heading": "",
+      "content": [
+        "This project is a first exploration of supervised learning on medical data, with improvement opportunities through PCA, SOMs, or neural networks."
+      ]
+    }
+  }
+},
+
+    "portfolio": {
+  "title": "Aurélie Nunge's Portfolio",
+  "sections": {
+    "intro": {
+      "heading": "",
+      "content": [
+        "This project is an <strong>interactive portfolio</strong> built to showcase my skills in data, web development, and visualization. It features a modern approach with a strong visual identity, responsive compatibility, dark mode, English translation, and a smooth user experience.<br></br>"
+      ]
+    },
+    "objectif": {
+      "heading": "🎯 Goal",
+      "content": [
+        "Highlight my projects, skills, and professional identity through a personal, modern, and scalable website.<br></br>"
+      ]
+    },
+    "technos": {
+      "heading": "🔧 Technologies used",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li><strong>React.js</strong> (main JS framework)</li><li><strong>Vite</strong> (for fast bundling)</li><li><strong>Tailwind CSS</strong> (responsive layout)</li><li><strong>Framer Motion</strong> (smooth animations)</li><li><strong>Three.js</strong> with <code>@react-three/fiber</code> (3D model)</li><li><strong>React Router</strong> (multi-page navigation)</li></ul><br></br>"
+      ]
+    },
+    "fonctionnalites": {
+      "heading": "🚀 Main Features",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Seamless navigation across sections (About, Skills, Projects...)</li><li>Automatic dark mode with preference saving</li><li>Animated timeline of projects with detailed pages</li><li>Integration of an interactive 3D model</li><li>Browser language detection and translation</li></ul><br></br>"
+      ]
+    },
+    "modele": {
+      "heading": "📦 3D Model",
+      "content": [
+        "A GLB interactive model is embedded on the homepage via a custom <code>ModelViewer</code> component based on Three.js.",
+        "{{3D_MODEL}}"
+      ]
+    },
+    "defis": {
+      "heading": "⚠️ Technical Challenges",
+      "content": [
+        "<ul class='list-disc pl-6 mb-4'><li>Smooth 3D rendering without performance drops</li><li>Dark mode management via localStorage</li><li>Mobile-first responsive design</li><li>Dynamic routing for project pages</li></ul><br></br>"
+      ]
+    },
+    "liens": {
+      "heading": "🔗 Links",
+      "content": [
+        "<a href='https://aurelienunge.social' target='_blank' rel='noreferrer' class='text-red-600 underline'>View the live site</a>",
+        "<a href='https://github.com/ton-github/portfolio' target='_blank' rel='noreferrer' class='text-red-600 underline'>GitHub source code</a><br></br>"
+      ]
+    },
+    "conclusion": {
+      "heading": "",
+      "content": [
+        "This project is still evolving and serves as a true experimentation ground for my technical skills and professional identity."
+      ]
+    }
+  }
+},
+    "rapport-python": {
+    "title": "Automated Monthly Activity Report",
+    "sections": {
+     "intro": {
+        "heading": "",
+        "content": [
+          "<div class='alert-yellow'><p><strong>Important:</strong> The report presented here is a <em>fictitious example</em> for demonstration purposes. All data has been modified, generated, or annotated for demonstration only. The content does not reflect any confidential business information.</p></div>",
+          "This project was carried out during my first work-study program in the third year of my Electrical and Industrial IT bachelor's degree (BUT GEII). The goal: to automate a <strong>monthly activity report of over 60 pages</strong>, which was previously manually generated using Excel and Power BI. The automation aimed to save time, improve reliability, and enhance readability for the teams.<br></br>"
+        ]
+      },
+      "objectifs": {
+        "heading": "🎯 Goals",
+        "content": [
+          "Replace the manual production of Word and PDF reports with a fully automated process capable of:",
+          "<ul class='list-disc pl-6 mb-4'><li>Reducing manual monthly workload from 5–7 hours to just 10–20 minutes</li><li>Extracting and processing data from <strong>Excel files</strong> and an <strong>Access database</strong></li><li>Dynamically generating tables and charts based on the monthly volume</li><li>Automatically creating a <strong>paginated PDF report</strong> with multipage table handling</li><li>Eliminating human error in calculations and formatting</li><li>Provide a maintainable and scalable solution, usable by non-technical people.<br></br>"
+        ]
+      },
+      "technos": {
+        "heading": "🔧 Technologies used",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li><strong>Python</strong> for data processing and dynamic page generation</li><li><strong>Dash</strong> (Flask-based) for the web interface</li><li><strong>Plotly</strong> for interactive charts</li><li><strong>Openxyl</strong> to extract data from Excel files</li><li><strong>pandas</strong> for data cleaning, filtering, and grouping</li><li><strong>Excel</strong> + Power Query for database structuring</li></ul><br></br>"
+        ]
+      },
+      "fonctionnalites": {
+        "heading": "📄 Key Features",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li>Data collection from multiple Excel files (indicators, appendices, regulatory analyses...)</li><li>Automatic generation of multi-index tables and charts (Dash DataTable)</li><li>Dynamic pagination based on row count (auto page breaks)</li><li>Table of contents with dynamic links and auto-managed page numbers</li><li>PDF export ready for printing and client delivery</li></ul><br></br>"
+        ]
+      },
+      "defis": {
+        "heading": "💡 Challenges",
+        "content": [
+          "<ul class='list-disc pl-6 mb-4'><li>Creating dynamic pivot tables – not natively supported by Dash, so custom formatting was needed to match client expectations</li><li>Positioning footers precisely on each page</li><li>Building dynamic tables with pagination based on content</li><li>Handling multiple and inconsistent data sources</li><li>Optimizing Python code to ensure fast response times</li><li>Continuous improvement based on weekly user feedback</li></ul><br></br>"
+        ]
+      },
+      "resultats": {
+        "heading": "🚀 Results",
+        "content": [
+          "The automated MAR (Monthly Activity Report) significantly reduced generation time: from 5–7 hours manually to an average of 15 minutes. It improved data reliability and reduced workload on a previously time-consuming task. The interface is accessible via a standard browser (internal server deployment in progress). The solution is fully documented (installation guide, user manual, developer guide) and can be adapted for other contracts.<br></br>"
+        ]
+      },
+      "preview": {
+        "heading": "📌 Preview",
+        "content": [
+          "<embed src='/documents/RMA.pdf' type='application/pdf' class='w-full h-[1000px] rounded shadow my-6' />",
+          "<p class='italic text-sm'>Further improvements are planned (web deployment, dynamic filters...)</p>"
+        ]
+      }
+    }
+  }
+
+  }
+}
